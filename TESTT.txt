@@ -41,7 +41,7 @@ local Wingsuit_Tab = Window:MakeTab({
 })
 
 local Cola_Tab = Window:MakeTab({
-    Name = "Cola",
+    Name = "(bloxy) Cola",
     Icon = "rbxassetid://9743223064",
     PremiumOnly = false
 })
@@ -65,13 +65,13 @@ local Misc_Tab = Window:MakeTab({
 })
 
 local Automatic_Tab = Window:MakeTab({
-    Name = "Automatic",
+    Name = "Auto",
     Icon = "rbxassetid://9742968183",
     PremiumOnly = false
 })
 
 local Notifcations_Tab = Window:MakeTab({
-    Name = "Notifcations",
+    Name = "Notifs",
     Icon = "rbxassetid://9745241351",
     PremiumOnly = false
 })
