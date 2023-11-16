@@ -2,7 +2,7 @@ local UI = {}
 
 -- Variables
 local Library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = Library:MakeWindow({Name = "Parkour (Galaxy)", HidePremium = true})
+local Window = Library:MakeWindow({Name = "Parkour (Galaxy)", HidePremium = false})
 
 local Gearless_Tab = Window:MakeTab({
     Name = "Gearless",
